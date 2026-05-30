@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersecrypt",
+        "uuid": 3649140,
+        "checksum": "xsnw9l"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
